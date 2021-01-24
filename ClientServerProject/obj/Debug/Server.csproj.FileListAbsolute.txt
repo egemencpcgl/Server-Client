@@ -34,3 +34,6 @@ H:\ydk\ClientServerProject\ClientServerProject\obj\Debug\Server.csprojResolveAss
 H:\ydk\ClientServerProject\ClientServerProject\obj\Debug\ClientServerProject.Properties.Resources.resources
 H:\ydk\ClientServerProject\ClientServerProject\obj\Debug\ClientServerProject.Server.resources
 H:\ydk\ClientServerProject\ClientServerProject\obj\Debug\Server.csproj.GenerateResource.Cache
+H:\Server-Client\ClientServerProject\bin\Debug\ClientServerProject.exe.config
+H:\Server-Client\ClientServerProject\obj\Debug\ClientServerProject.exe
+H:\Server-Client\ClientServerProject\obj\Debug\ClientServerProject.pdb
