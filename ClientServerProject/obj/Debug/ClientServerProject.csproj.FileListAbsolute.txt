@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\ClientServerProject\ClientServerProject\bin\Debug\ClientServerProject.exe.config
+C:\Users\User\source\repos\ClientServerProject\ClientServerProject\bin\Debug\ClientServerProject.exe
+C:\Users\User\source\repos\ClientServerProject\ClientServerProject\bin\Debug\ClientServerProject.pdb
+C:\Users\User\source\repos\ClientServerProject\ClientServerProject\obj\Debug\ClientServerProject.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ClientServerProject\ClientServerProject\obj\Debug\ClientServerProject.Properties.Resources.resources
+C:\Users\User\source\repos\ClientServerProject\ClientServerProject\obj\Debug\ClientServerProject.Server.resources
+C:\Users\User\source\repos\ClientServerProject\ClientServerProject\obj\Debug\ClientServerProject.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ClientServerProject\ClientServerProject\obj\Debug\ClientServerProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ClientServerProject\ClientServerProject\obj\Debug\ClientServerProject.exe
+C:\Users\User\source\repos\ClientServerProject\ClientServerProject\obj\Debug\ClientServerProject.pdb
